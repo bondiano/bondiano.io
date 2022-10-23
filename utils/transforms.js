@@ -1,3 +1,5 @@
+// @ts-check
+
 const htmlmin = require('html-minifier');
 const isProduction = process.env.ELEVENTY_ENV === 'production';
 

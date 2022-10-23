@@ -1,1 +1,3 @@
+// @ts-check
+
 module.exports = {};
